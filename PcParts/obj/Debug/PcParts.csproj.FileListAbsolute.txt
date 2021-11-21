@@ -24,6 +24,7 @@ C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.csproj.CoreCompileInput
 C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.exe
 C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.pdb
 C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\MainApp.Modify.resources
+<<<<<<< HEAD
 C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\PcParts.csproj.AssemblyReference.cache
 C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\MainApp.About_Us.resources
 C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\MainApp.Add.resources
@@ -36,3 +37,20 @@ C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\PcParts.csproj
 C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\PcParts.csproj.CoreCompileInputs.cache
 C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\PcParts.exe
 C:\Users\Álvaro Escribano\source\repos\English\PcParts\obj\Debug\PcParts.pdb
+=======
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.csproj.AssemblyReference.cache
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\MainApp.About_Us.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\MainApp.Add.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\MainApp.Data_Viewer.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\MainApp.Main.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\MainApp.Modify.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.PasswordForm.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.Properties.Resources.resources
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.csproj.GenerateResource.cache
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.exe
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\obj\Debug\PcParts.pdb
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\bin\Debug\PcParts.exe.config
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\bin\Debug\PcParts.exe
+C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\bin\Debug\PcParts.pdb
+>>>>>>> main
