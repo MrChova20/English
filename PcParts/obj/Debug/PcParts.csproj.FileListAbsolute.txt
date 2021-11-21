@@ -1,0 +1,26 @@
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\bin\Debug\PcParts.exe.config
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\bin\Debug\PcParts.exe
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\bin\Debug\PcParts.pdb
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.csprojAssemblyReference.cache
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.Properties.Resources.resources
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.csproj.GenerateResource.cache
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.csproj.CoreCompileInputs.cache
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.exe
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.pdb
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\MainApp.About_Us.resources
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\MainApp.Add.resources
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\MainApp.Data_Viewer.resources
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\PcParts.PasswordForm.resources
+C:\Users\LVillarroya Martinez\source\repos\PcParts\PcParts\obj\Debug\MainApp.Main.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.csprojAssemblyReference.cache
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\MainApp.About_Us.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\MainApp.Add.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\MainApp.Data_Viewer.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.PasswordForm.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\MainApp.Main.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.Properties.Resources.resources
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.csproj.GenerateResource.cache
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.csproj.CoreCompileInputs.cache
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.exe
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\PcParts.pdb
+C:\Users\belen\Desktop\PcParts\PcParts\obj\Debug\MainApp.Modify.resources
