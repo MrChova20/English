@@ -18,7 +18,7 @@ namespace MainApp
         {
             InitializeComponent();
             form = form1;
-            int pos = form.inventoryList.SelectedIndex;
+           // form1= form.inventoryList.SelectedIndex;
             /*textBoxName.Text = form.inventory1.Product_list[pos].Name;
             textBoxID.Text = form.inventory1.Product_list[pos].Id.ToString();
             textBoxDescription.Text = form.inventory1.Product_list[pos].Description;
