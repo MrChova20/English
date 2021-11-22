@@ -54,3 +54,6 @@ C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\bin\Debug\PcParts.exe.conf
 C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\bin\Debug\PcParts.exe
 C:\Users\Pablo Chova\Documents\GitHub\English\PcParts\bin\Debug\PcParts.pdb
 >>>>>>> main
+C:\Users\Álvaro Escribano\source\repos\English\PcParts\bin\Debug\PcParts.exe.config
+C:\Users\Álvaro Escribano\source\repos\English\PcParts\bin\Debug\PcParts.exe
+C:\Users\Álvaro Escribano\source\repos\English\PcParts\bin\Debug\PcParts.pdb
